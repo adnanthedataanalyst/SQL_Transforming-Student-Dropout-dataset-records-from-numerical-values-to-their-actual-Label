@@ -22,7 +22,7 @@ As you see, the number each column does not mean anything. For example, in the M
 This project follows a systematic approach outlined in the following steps:
 
 1. **Data Source:** Utilizing the [Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
-2. **Code Description Integration:** Integrating Dataset Column Descriptions and Categories from Damiieibikun's GitHub repository, found [here](https://github.com/Damiieibikun/Student-s-Dropout-Prediction-using-Supervised-Machine-Learning-Classifiers). This repository provides the missing information regarding the categorical labels used in the dataset.
+2. **Code Description Integration:** Integrating Dataset Column Descriptions and Categories from Damiieibikun's GitHub repository appendix, found [here](https://github.com/Damiieibikun/Student-s-Dropout-Prediction-using-Supervised-Machine-Learning-Classifiers). This repository provides the missing information regarding the categorical labels used in the dataset.
 3. **SQL Integration:** Employing SQL queries to enhance interpretability and facilitate a more meaningful analysis. This involves merging datasets based on relevant columns and updating categorical values to their corresponding labels, ensuring a comprehensive and well-understood dataset for analysis.
 
  

@@ -15,8 +15,7 @@ As you see, the number each column does not mean anything. For example, in the M
 |-----------------|-------------------|-------------------|--------|-----|-------------------|-----------------|-----|---------|
 | 1               | 8                 | 2                 | 15     | ... | 9.4               | -0.8            | -3.12| Graduate|
 | 2               | 12                | 1                 | 3      | ... | 13.9              | -0.3            | 0.79| Graduate|
-| 2               | 12                | 1                 | 17     | ... | 16.2              | 0.3             | -0.92| Graduate|
-| 1               | 1                 | 12                | 1      | ... | 15.5              | 2.8             | -4.06| Graduate|
+
 
 
 ### Methodology Approach
@@ -33,12 +32,7 @@ The data has been organized more clearly after executing SQL queries on the data
 
 | Marital status | Application mode                 | Application order | Course                              |...| Unemployment rate | Inflation rate | GDP | Target   |
 |-----------------|----------------------------------|-------------------|-------------------------------------|-----------------------------------------------|-------------------|----------------|-----|----------|
-| Single          | 2nd phase - general contingent   | 5                 | Animation and Multimedia Design    | ...                                             | 10.8              | 1.4            | 1.74| Dropout  |
-| Single          | International student (bachelor) | 1                 | Tourism                             | ...                                            | 13.9              | -0.3           | 0.79| Graduate |
-| Single          | 1st phase - general contingent   | 5                 | Communication Design                | ...                                             | 10.8              | 1.4            | 1.74| Dropout  |
 | Single          | 2nd phase - general contingent   | 2                 | Journalism and Communication        | ...                                             | 9.4               | -0.8           | -3.12| Graduate |
 | Married         | Over 23 years old                | 1                 | Social Service (evening attendance)  | ...                                             | 13.9              | -0.3           | 0.79| Graduate |
-| Married         | Over 23 years old                | 1                 | Management (evening attendance)      | ...                                             | 16.2              | 0.3            | -0.92| Graduate |
-| Single          | 1st phase - general contingent   | 1                 | Nursing                             | ...                                             | 15.5              | 2.8            | -4.06| Graduate |
-
+|
  

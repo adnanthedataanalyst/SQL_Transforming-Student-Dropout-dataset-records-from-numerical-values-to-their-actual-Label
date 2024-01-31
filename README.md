@@ -30,15 +30,12 @@ This project follows a systematic approach outlined in the following steps:
 
 ### Results
 The data has been organized more clearly after executing SQL queries on the data. This enhanced structure makes it much easier to understand the contents within each column. **Note:** The both the SQL Queries file used to generate this table and Excel files, illustrating the data before and after the application of the SQL Queries are included in this repository above. 
-
- | Marital status | Application mode                   | Application order | Course                       | Unemployment rate | Inflation rate | GDP | Target    |
-|-----------------|-------------------------------------|-------------------|------------------------------|---------------------|-----------------|-----|-----------|
-| Single          | 2nd phase - general contingent      | 5                 | Animation and Multimedia Design | ... | 1.74                | Dropout   |
-| Single          | International student (bachelor)   | 1                 | Tourism                      | ... | 0.79                | Graduate  |
-| Single          | 1st phase - general contingent      | 5                 | Communication Design         | ... | 1.74                | Dropout   |
-| Single          | 2nd phase - general contingent      | 2                 | Journalism and Communication  | ... |
-
-
+| Marital status | Application mode                   | Application order | Course                       | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | Unemployment rate | Inflation rate | GDP | Target    |
+|-----------------|-------------------------------------|-------------------|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|---------------------|-----------------|-----|-----------|
+| Single          | 2nd phase - general contingent      | 5                 | Animation and Multimedia Design | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | 1.74                | Dropout   |
+| Single          | International student (bachelor)   | 1                 | Tourism                      | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | 0.79                | Graduate  |
+| Single          | 1st phase - general contingent      | 5                 | Communication Design         | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | 1.74                | Dropout   |
+| Single          | 2nd phase - general contingent      | 2                 | Journalism and Communication  | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 
  

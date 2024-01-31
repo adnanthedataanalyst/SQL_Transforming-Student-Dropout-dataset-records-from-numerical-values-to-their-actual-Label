@@ -33,10 +33,10 @@ The approach undertaken in this project comprises the following steps:
 
 **Note:** The repository above contains both the SQL Queries file and an Excel file, with and without the SQL Queries.
 
-Here is how the data look like after the SQL queries. You can see it is now easy to follow what each column has
+## Results
+The data now exhibits a clearer structure post the execution of SQL queries, making it significantly easier to comprehend the information within each column.
 
-<img width="764" alt="Screenshot 2024-01-31 114537" src="https://github.com/mayofadnan/SQL_Student-Dropout/assets/152249280/8bdc33aa-7b51-47c2-ad45-7e009a8a4c4a">
-
+![Screenshot of Transformed Data](https://github.com/mayofadnan/SQL_Student-Dropout/assets/152249280/8bdc33aa-7b51-47c2-ad45-7e009a8a4c4a)
  
 ## Appendix: Dataset Column Descriptions and Categories
 

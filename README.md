@@ -1,4 +1,4 @@
-# Transforming SQL_Student-Dropout dataset records from numerical values to their corresponding words.
+# Transforming SQL_Student-Dropout dataset records from numerical representations to their corresponding words.
 
 
 ## Introduction

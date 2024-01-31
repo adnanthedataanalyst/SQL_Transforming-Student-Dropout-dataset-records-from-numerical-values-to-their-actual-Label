@@ -1,7 +1,5 @@
 # SQL_Student-Dropout
 
-  
-
 A Data science project on Predicting Students' dropout using SQL queries for data analysis and transformation.
 
 ## Introduction
@@ -20,15 +18,10 @@ As you see, the number each column does not mean anything. For example, in the M
 
 | Marital status | Application mode | Application order | Course | ... | Unemployment rate | Inflation rate | GDP | Target  |
 |-----------------|-------------------|-------------------|--------|-----|-------------------|-----------------|-----|---------|
-| 1               | 8                 | 5                 | 2      | ... | 10.8              | 1.4             | 1.74| Dropout |
-| 1               | 6                 | 1                 | 11     | ... | 13.9              | -0.3            | 0.79| Graduate|
-| 1               | 1                 | 5                 | 5      | ... | 10.8              | 1.4             | 1.74| Dropout |
 | 1               | 8                 | 2                 | 15     | ... | 9.4               | -0.8            | -3.12| Graduate|
 | 2               | 12                | 1                 | 3      | ... | 13.9              | -0.3            | 0.79| Graduate|
 | 2               | 12                | 1                 | 17     | ... | 16.2              | 0.3             | -0.92| Graduate|
 | 1               | 1                 | 12                | 1      | ... | 15.5              | 2.8             | -4.06| Graduate|
-| 1               | 9                 | 4                 | 11     | ... | 15.5              | 2.8             | -4.06| Dropout |
-| 1               | 1                 | 3                 | 10     | ... | 16.2              | 0.3             | -0.92| Graduate|
 
 
 ## Methodology Approach
@@ -38,9 +31,8 @@ The approach undertaken in this project comprises the following steps:
 2. **Code Description Integration:** Incorporating coding scheme details from Damiieibikun's GitHub repository, accessible [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success). This repository likely holds the missing information concerning the categorical labels used in the provided dataset.
 3. **SQL Integration:** To enhance interpretability and facilitate a more meaningful analysis, SQL queries will be employed to merge the datasets based on relevant columns. This process involves updating the categorical values in the existing dataset with their corresponding labels, ensuring a comprehensive and well-understood dataset for analysis.
 
-## File
-1. You can find the SQL Queries here
-2. Here the excel without and wihtout the SQL Quieries
+**Note:** The repository above contains both the SQL Queries file and an Excel file, with and without the SQL Queries.
+
 
 
  

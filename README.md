@@ -1,4 +1,4 @@
-# SQL_Student-Dropout Data
+# SQL_Student-Dropout Dataset Transformation
 
 
 ## Introduction
